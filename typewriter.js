@@ -1,4 +1,4 @@
-const phrase = "Tenha o que postar. Todos os dias. Com foco em vender, sem travar e sem perder tempo.";
+const phrase = "Transforme seu Instagram em uma máquina de atração de clientes com apenas 5 minutos por dia!";
 let i = 0;
 const speed = 50;
 
